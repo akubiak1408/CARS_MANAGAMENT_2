@@ -1,0 +1,25 @@
+{
+  "model": "MERCEDES",
+  "price": 51677.05,
+  "mileage": 37392.04,
+  "engine": {
+    "engineType": "DIESEL",
+    "power": 78
+  },
+  "carBody": {
+    "carBodyColor": "SILVER",
+    "carBodyType": "SEDAN",
+    "components": [
+      "WIRING HARNESSES",
+      "AUDIO",
+      "ABS",
+      "AIR CONDITIONING",
+      "CAMERAS"
+    ]
+  },
+  "wheel": {
+    "model": "DBICA",
+    "size": 15,
+    "tyreType": "SUMMER"
+  }
+}

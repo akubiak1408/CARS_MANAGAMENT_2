@@ -1,0 +1,25 @@
+{
+  "model": "RENAULT",
+  "price": 44571.77,
+  "mileage": 77387.17,
+  "engine": {
+    "engineType": "DIESEL",
+    "power": 83
+  },
+  "carBody": {
+    "carBodyColor": "WHITE",
+    "carBodyType": "SEDAN",
+    "components": [
+      "AUDIO",
+      "ABS",
+      "SENSORS",
+      "AIR CONDITIONING",
+      "FOG LIGHTS"
+    ]
+  },
+  "wheel": {
+    "model": "MICHELIN",
+    "size": 20,
+    "tyreType": "SUMMER"
+  }
+}

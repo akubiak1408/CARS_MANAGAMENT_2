@@ -1,0 +1,21 @@
+{
+  "model": "AUDI",
+  "price": 59107.18,
+  "mileage": 67261.38,
+  "engine": {
+    "engineType": "LPG",
+    "power": 105
+  },
+  "carBody": {
+    "carBodyColor": "WHITE",
+    "carBodyType": "HATCHBACK",
+    "components": [
+      "No components"
+    ]
+  },
+  "wheel": {
+    "model": "CONTINENTAL",
+    "size": 21,
+    "tyreType": "SUMMER"
+  }
+}

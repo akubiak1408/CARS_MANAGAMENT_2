@@ -1,0 +1,23 @@
+{
+  "model": "JEEP",
+  "price": 79672.00,
+  "mileage": 48233.5,
+  "engine": {
+    "engineType": "DIESEL",
+    "power": 126
+  },
+  "carBody": {
+    "carBodyColor": "BLUE",
+    "carBodyType": "HATCHBACK",
+    "components": [
+      "WIRING HARNESSES",
+      "ASP",
+      "FOG LIGHTS"
+    ]
+  },
+  "wheel": {
+    "model": "MICHELIN",
+    "size": 21,
+    "tyreType": "WINTER"
+  }
+}

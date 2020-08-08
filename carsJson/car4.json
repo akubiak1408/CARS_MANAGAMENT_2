@@ -1,0 +1,23 @@
+{
+  "model": "JEEP",
+  "price": 74326.56,
+  "mileage": 67276.98,
+  "engine": {
+    "engineType": "GASOLINE",
+    "power": 116
+  },
+  "carBody": {
+    "carBodyColor": "BLUE",
+    "carBodyType": "HATCHBACK",
+    "components": [
+      "AUDIO",
+      "WIRING HARNESSES",
+      "CAMERAS"
+    ]
+  },
+  "wheel": {
+    "model": "DBICA",
+    "size": 15,
+    "tyreType": "WINTER"
+  }
+}

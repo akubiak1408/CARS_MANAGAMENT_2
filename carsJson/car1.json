@@ -1,0 +1,21 @@
+{
+  "model": "RENAULT",
+  "price": 63929.37,
+  "mileage": 60600.19,
+  "engine": {
+    "engineType": "GASOLINE",
+    "power": 168
+  },
+  "carBody": {
+    "carBodyColor": "WHITE",
+    "carBodyType": "HATCHBACK",
+    "components": [
+      "FOG LIGHTS"
+    ]
+  },
+  "wheel": {
+    "model": "GOODYEAR",
+    "size": 21,
+    "tyreType": "WINTER"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "model": "CITROEN",
+  "price": 81231.76,
+  "mileage": 83893.07,
+  "engine": {
+    "engineType": "DIESEL",
+    "power": 167
+  },
+  "carBody": {
+    "carBodyColor": "WHITE",
+    "carBodyType": "SEDAN",
+    "components": [
+      "AIR CONDITIONING",
+      "AUDIO",
+      "ASP",
+      "ABS",
+      "CAMERAS"
+    ]
+  },
+  "wheel": {
+    "model": "GOODYEAR",
+    "size": 20,
+    "tyreType": "SUMMER"
+  }
+}

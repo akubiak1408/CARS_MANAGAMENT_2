@@ -1,0 +1,24 @@
+{
+  "model": "CITROEN",
+  "price": 32891.80,
+  "mileage": 69332.02,
+  "engine": {
+    "engineType": "LPG",
+    "power": 196
+  },
+  "carBody": {
+    "carBodyColor": "GREEN",
+    "carBodyType": "SEDAN",
+    "components": [
+      "SENSORS",
+      "FOG LIGHTS",
+      "AUDIO",
+      "WIRING HARNESSES"
+    ]
+  },
+  "wheel": {
+    "model": "DBICA",
+    "size": 22,
+    "tyreType": "SUMMER"
+  }
+}

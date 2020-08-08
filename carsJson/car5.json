@@ -1,0 +1,21 @@
+{
+  "model": "AUDI",
+  "price": 55879.28,
+  "mileage": 43446.5,
+  "engine": {
+    "engineType": "LPG",
+    "power": 139
+  },
+  "carBody": {
+    "carBodyColor": "WHITE",
+    "carBodyType": "HATCHBACK",
+    "components": [
+      "No components"
+    ]
+  },
+  "wheel": {
+    "model": "DBICA",
+    "size": 20,
+    "tyreType": "SUMMER"
+  }
+}

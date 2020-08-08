@@ -1,0 +1,22 @@
+{
+  "model": "RENAULT",
+  "price": 94472.30,
+  "mileage": 95592.63,
+  "engine": {
+    "engineType": "LPG",
+    "power": 74
+  },
+  "carBody": {
+    "carBodyColor": "WHITE",
+    "carBodyType": "COMBI",
+    "components": [
+      "CAMERAS",
+      "ABS"
+    ]
+  },
+  "wheel": {
+    "model": "DBICA",
+    "size": 19,
+    "tyreType": "SUMMER"
+  }
+}

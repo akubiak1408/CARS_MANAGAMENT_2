@@ -1,0 +1,21 @@
+{
+  "model": "BMW",
+  "price": 43337.47,
+  "mileage": 20737.88,
+  "engine": {
+    "engineType": "GASOLINE",
+    "power": 169
+  },
+  "carBody": {
+    "carBodyColor": "WHITE",
+    "carBodyType": "SEDAN",
+    "components": [
+      "AUDIO"
+    ]
+  },
+  "wheel": {
+    "model": "MICHELIN",
+    "size": 18,
+    "tyreType": "WINTER"
+  }
+}
